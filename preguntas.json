@@ -1,0 +1,212 @@
+[
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién pintó la mona lisa?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Monet",
+        "imagen": "https://picsum.photos/id/832/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Cuál es el nombre de Picasso?",
+        "respuesta": "Pablo",
+        "incorrecta1": "Nicolás",
+        "incorrecta2": "David",
+        "incorrecta3": "Albert\r",
+        "imagen": "https://picsum.photos/id/602/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": " Gente que no posee magia en la saga de Harry Potter.",
+        "respuesta": "Muggles",
+        "incorrecta1": "Hufflepuffs",
+        "incorrecta2": "Ratñingers",
+        "incorrecta3": "Kubys\r",
+        "imagen": "https://picsum.photos/id/660/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Qué odia Mafalda?",
+        "respuesta": "La sopa",
+        "incorrecta1": "El ruido",
+        "incorrecta2": "La gente",
+        "incorrecta3": "A su Madre\r",
+        "imagen": "https://picsum.photos/id/488/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": " Pintó La Capilla Sixtina.",
+        "respuesta": "Miguel Ángel",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Monet",
+        "incorrecta3": "Gustave Klimt\r",
+        "imagen": "https://picsum.photos/id/782/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Ciencia y Tecnología",
+        "pregunta": "Cambio de estado sólido a gaseoso.",
+        "respuesta": "Sublimación",
+        "incorrecta1": "Cohesión",
+        "incorrecta2": "Evaporación",
+        "incorrecta3": "Condensación\r",
+        "imagen": "https://picsum.photos/id/113/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Ciencia y Tecnología",
+        "pregunta": "¿Cómo debería estar una persona para que le fuera practicada una autopsia?",
+        "respuesta": "Muerta",
+        "incorrecta1": "En Coma",
+        "incorrecta2": "Dormida",
+        "incorrecta3": "Sedada\r",
+        "imagen": "https://picsum.photos/id/31/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Ciencia y Tecnología",
+        "pregunta": "¿Cuál es el órgano que tiene como única función el placer?",
+        "respuesta": "Clítoris",
+        "incorrecta1": "Vulva",
+        "incorrecta2": "Pene",
+        "incorrecta3": "Testículos\r",
+        "imagen": "https://picsum.photos/id/451/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Ciencia y Tecnología",
+        "pregunta": "¿Cuál es el mamífero más grande conocido hasta la actualidad?",
+        "respuesta": "Ballena Azul",
+        "incorrecta1": "Cachalote",
+        "incorrecta2": "Elefante",
+        "incorrecta3": "Rinoceronte\r",
+        "imagen": "https://picsum.photos/id/615/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Ciencia y Tecnología",
+        "pregunta": "¿Qué es un equino?",
+        "respuesta": "Un Caballo",
+        "incorrecta1": "Una Vaca",
+        "incorrecta2": "Un Antílope",
+        "incorrecta3": "Una Oveja\r",
+        "imagen": "https://picsum.photos/id/200/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Internet",
+        "pregunta": "¿Cómo se llama la página web más famosa del mundo en la que se puede visualizar videos de todo tipo?",
+        "respuesta": "Youtube",
+        "incorrecta1": "Reddit",
+        "incorrecta2": "Glooge",
+        "incorrecta3": "Twitch\r",
+        "imagen": "https://picsum.photos/id/341/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Internet",
+        "pregunta": " ¿En qué año falleció Steve Jobs?",
+        "respuesta": "2011",
+        "incorrecta1": "2008",
+        "incorrecta2": "2009",
+        "incorrecta3": "2007\r",
+        "imagen": "https://picsum.photos/id/119/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Internet",
+        "pregunta": " ¿Qué significan las siglas \"www\"?",
+        "respuesta": "World Wide Web",
+        "incorrecta1": "Todas Son Correctas",
+        "incorrecta2": "Wikipedia World Web",
+        "incorrecta3": "World Wild West\r",
+        "imagen": "https://picsum.photos/id/967/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Internet",
+        "pregunta": "¿Cuál es la combinación de las teclas que pega texto en un PC?",
+        "respuesta": "Ctrl + V",
+        "incorrecta1": "Ctrl + P",
+        "incorrecta2": "Ctrl + Q",
+        "incorrecta3": "Ctrl + Z\r",
+        "imagen": "https://picsum.photos/id/403/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Internet",
+        "pregunta": "¿Cuál es la combinación de las teclas que corta texto en un PC?",
+        "respuesta": "Ctrl + X",
+        "incorrecta1": "Ctrl + P",
+        "incorrecta2": "Ctrl + Q",
+        "incorrecta3": "Ctrl + V\r",
+        "imagen": "https://picsum.photos/id/486/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cómo se llama la rama de las matemáticas en que los números son representados por letras y símbolos?",
+        "respuesta": "Álgebra",
+        "incorrecta1": "Trigonometría",
+        "incorrecta2": "Geometría",
+        "incorrecta3": "Simbología\r",
+        "imagen": "https://picsum.photos/id/1073/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuánto es la raíz cuadrada del 121?",
+        "respuesta": "11",
+        "incorrecta1": "13",
+        "incorrecta2": "10",
+        "incorrecta3": "21\r",
+        "imagen": "https://picsum.photos/id/802/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Descubrimiento de Einstein",
+        "respuesta": "El movimiento Browniano",
+        "incorrecta1": "El teletransporte cuántico espectral",
+        "incorrecta2": "La energía libre",
+        "incorrecta3": "La unión covalente de los átomos\r",
+        "imagen": "https://picsum.photos/id/1079/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Música",
+        "pregunta": "¿Qué es un bit?",
+        "respuesta": "La unidad más pequeña de almacenamiento",
+        "incorrecta1": "La escala musical que tiene un tempo",
+        "incorrecta2": "El efecto de sonido de un DJ.",
+        "incorrecta3": "Bassic Interface Conection\r",
+        "imagen": "https://picsum.photos/id/304/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el país de origen del futbolista Lionel Messi?",
+        "respuesta": "Argentina",
+        "incorrecta1": "España",
+        "incorrecta2": "Brasil",
+        "incorrecta3": "Chile\r",
+        "imagen": "https://picsum.photos/id/1058/900/800",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál de estos pilotos no es de F1?",
+        "respuesta": "Richard Petty",
+        "incorrecta1": "Fernando Alonso",
+        "incorrecta2": "Sebastian Vettel",
+        "incorrecta3": "Mark Webber\r",
+        "imagen": "https://picsum.photos/id/804/900/800",
+        "objectFit": "contain"
+    }
+]
